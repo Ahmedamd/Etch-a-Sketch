@@ -21,13 +21,14 @@ To run the project locally, follow these steps:
 
    ```sh
 git clone https://github.com/yourusername/etch-a-sketch.git
-   ```
+ 
+
 
 2. Navigate to the project directory:
 
    ```sh
 Navigate to the project directory:cd etch-a-sketch
-   ```
+   ```sh
 
 
 
