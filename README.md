@@ -1,11 +1,11 @@
-#Overview
+# Overview
 Etch A Sketch is a simple web application that allows users to draw on a virtual canvas using their mouse or touchpad, mimicking the classic drawing toy. Users can clear the canvas and change the color and size of the drawing brush.
 
-Features
+### Features
 Draw on the canvas with customizable brush size and color
 Clear the canvas with a single click
 Responsive design for both desktop and mobile devices
-Technologies Used
+### Technologies Used
 HTML
 CSS
 JavaScript
