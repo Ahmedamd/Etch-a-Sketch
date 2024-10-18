@@ -15,10 +15,21 @@ To run the project locally, follow these steps:
 
 ## Clone the repository:
 
-bash
-Copy code
+
+
+1. git clone
+
+   ```sh
 git clone https://github.com/yourusername/etch-a-sketch.git
-Navigate to the project directory:
+   ```
+
+2. Navigate to the project directory:
+
+   ```sh
+Navigate to the project directory:cd etch-a-sketch
+   ```
+
+
 
 bash
 Copy code
