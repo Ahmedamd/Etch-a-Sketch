@@ -1,6 +1,6 @@
 # Etch-a-Sketch
 
-A digital version of the classic Etch-a-Sketch toy
+A digital version of the classic Etch-a-Sketch toy.
 
 ## Features
 
